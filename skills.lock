@@ -1,0 +1,27 @@
+{
+  "lockfileVersion": 1,
+  "registry": {
+    "url": "local-dev",
+    "rootKeys": [
+      {
+        "kid": "local-dev-496f9c5f452011f6",
+        "alg": "ECDSA_SHA_256",
+        "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEC45qIHQDIVVms2NuCaiFb8XEyhAlkRoNbR1G06OmbkYtMWOgEkcSXWDe7O6w3pnJMsqXAp4l5ODjcHYYhp9qwA=="
+      }
+    ]
+  },
+  "skills": {
+    "org/baseline-2026-06-16": {
+      "version": "baseline-2026-06-16",
+      "releaseDigest": "sha256:403c27a854d2543dd9e2244cabf3afa27ed6b5e54a285ea96435ce75c9f79021",
+      "installPath": ".",
+      "files": {
+        ".claude/skills/demo-runbook/SKILL.md": "sha256:e7d1b5e450291707d0073f7e3aca6f8566ca3ff8b47d761d0d08d11e32c3a706"
+      },
+      "approval": {
+        "logSeq": 3,
+        "envelopeDigest": "sha256:8b50e0bda94b9b3881b0896872515417b5cafaa7e5490f0fb1f8389cd471c765"
+      }
+    }
+  }
+}
